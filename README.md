@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
+  <img src="assets/badges/fde-zetta.svg" alt="Ex Forward Deployed Engineering Intern at Zetta Tech" />
   <a href="https://www.linkedin.com/in/bhuvanesh-b-m-1239bm"><img src="assets/badges/linkedin.svg" alt="LinkedIn" /></a>
-  <a href="mailto:bhuvane1304f@gmail.com"><img src="assets/badges/email.svg" alt="Email" /></a>
   <img src="https://komarev.com/ghpvc/?username=BhuvaneshBM&label=Profile%20Views&color=22D3EE&style=for-the-badge" alt="Profile views" />
 </p>
 
@@ -20,13 +20,18 @@ Hi! I'm **Bhuvanesh**, a B.Tech student at **IIT Madras** (graduating 2027). I w
 
 My foundation is **backend engineering and system design**. At the architecture level (**HLD**), I think about caching, message queues, rate limiting, failover, and horizontal scaling. At the code level (**LLD**), I focus on clean, modular, testable code. On the AI side, I've worked across the full range, from classical ML and deep learning to Transformers written from scratch, RAG pipelines, and agents built with LangGraph.
 
-- 💼 Previously a Forward Deployed Engineering Intern at **Zetta Tech**, building production FastAPI and PostgreSQL platforms on Kubernetes for live customers
+> ### 💼 Ex Forward Deployed Engineering Intern · Zetta Tech
+> I worked directly with clients to build and ship production backends for live **B2B/B2C commerce** and **real estate CRM** platforms:
+> - **FastAPI + PostgreSQL** REST APIs powering live customer, supplier, and admin portals
+> - **Celery** workers moving heavy Excel import and export jobs off the request path
+> - **WhatsApp, SMS OTP, email, and eKYC** integrations that automate onboarding end to end
+> - **pytest** and **GitHub Actions CI/CD on Kubernetes** for regression-free releases
+
 - 🔭 Currently building reliable LLM systems, including RAG, agents, and LLM infrastructure
 - 🌱 Going deeper into **distributed systems**, **multi-agent systems**, and **LLM evaluation and observability**
 - ⚡ Proficient with **Claude Code** and **Codex**, which I use to ship fast without cutting corners
 - 🎯 Looking for **full-time Backend / SDE and AI/ML engineering roles** (2027)
 - 💬 Ask me about backend architecture, system design, ML, or GenAI
-- 📫 Reach me at **bhuvane1304f@gmail.com**
 
 ## 🎯 What I Bring
 
