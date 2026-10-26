@@ -14,14 +14,6 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - name: Contribution snake
-        uses: Platane/snk@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
       - name: Stats card (dark)
         uses: stats-organization/github-readme-stats-action@v2
         with:
@@ -53,6 +45,15 @@ jobs:
           options: username=${{ github.repository_owner }}&layout=compact&langs_count=6&hide=jupyter%20notebook&hide_border=true&bg_color=FFFFFF&title_color=0969DA&text_color=24292F
           path: dist/top-langs-light.svg
           token: ${{ secrets.GITHUB_TOKEN }}
+
+      # Runs last: snk writes from a Docker container, which leaves dist/ unwritable for later steps.
+      - name: Contribution snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
       - name: Publish to output branch
         uses: crazy-max/ghaction-github-pages@v4
