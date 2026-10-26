@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/bhuvanesh-b-m-1239bm"><img src="assets/badges/linkedin.svg" alt="LinkedIn" /></a>
-  <a href="mailto:bhuvane1304f@gmail.com"><img src="assets/badges/email.svg" alt="Email: bhuvane1304f@gmail.com" /></a>
+  <a href="mailto:bhuvane1304f@gmail.com"><img src="assets/badges/email-contact.svg" alt="Email: bhuvane1304f@gmail.com" /></a>
   <img src="https://komarev.com/ghpvc/?username=BhuvaneshBM&label=Profile%20Views&color=22D3EE&style=for-the-badge" alt="Profile views" />
 </p>
 
