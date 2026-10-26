@@ -16,14 +16,16 @@
 
 ## 👨‍💻 About Me
 
-I'm a backend and AI/ML engineer studying at **IIT Madras**. I build backend systems that hold up under real load, and I design them properly at both the architecture level (**HLD**) and the code level (**LLD**). On the AI side, I work across machine learning, deep learning, and GenAI, from training models in PyTorch to shipping RAG pipelines and LangGraph agents behind production APIs.
+Hi! I'm **Bhuvanesh**, a B.Tech student at **IIT Madras** (graduating 2027). I work where backend engineering meets AI. I like taking an idea all the way to production: designing the data model, building the APIs, making the system hold up under real traffic, and then putting a reliable ML model or LLM behind it.
 
-- 💼 Previously a Forward Deployed Engineering Intern at **Zetta Tech**, where I built production FastAPI and PostgreSQL platforms deployed on Kubernetes
-- 🏗️ I design scalable backends with caching, queues, rate limiting, circuit breakers, and failover
-- 🤖 Currently building LLM systems: RAG, agents with LangChain and LangGraph, and LLM infrastructure
-- 🧠 ML and deep learning, from classical models to Transformers built from scratch
-- ⚡ Proficient with **Claude Code** and **Codex**
-- 💬 Ask me about `Backend`, `System Design`, `ML`, and `GenAI`
+My foundation is **backend engineering and system design**. At the architecture level (**HLD**), I think about caching, message queues, rate limiting, failover, and horizontal scaling. At the code level (**LLD**), I focus on clean, modular, testable code. On the AI side, I've worked across the full range, from classical ML and deep learning to Transformers written from scratch, RAG pipelines, and agents built with LangGraph.
+
+- 💼 Previously a Forward Deployed Engineering Intern at **Zetta Tech**, building production FastAPI and PostgreSQL platforms on Kubernetes for live customers
+- 🔭 Currently building reliable LLM systems, including RAG, agents, and LLM infrastructure
+- 🌱 Going deeper into **distributed systems**, **multi-agent systems**, and **LLM evaluation and observability**
+- ⚡ Proficient with **Claude Code** and **Codex**, which I use to ship fast without cutting corners
+- 🎯 Looking for **full-time Backend / SDE and AI/ML engineering roles** (2027)
+- 💬 Ask me about backend architecture, system design, ML, or GenAI
 - 📫 Reach me at **bhuvane1304f@gmail.com**
 
 ## 🎯 What I Bring
@@ -44,7 +46,9 @@ class Bhuvanesh:
     languages = ["Python", "C++", "SQL", "Bash"]
     focus = ["Scalable Backends", "System Design (HLD + LLD)", "GenAI & Agents", "ML / DL"]
     currently = "Building reliable LLM systems: RAG, agents, and LLM infrastructure"
+    learning = ["Distributed Systems", "Multi-Agent Systems", "LLM Evaluation & Observability"]
     ai_pair_programmers = ["Claude Code", "Codex"]
+    looking_for = "Full-time Backend / SDE and AI/ML roles (2027)"
 
     def say_hi(self):
         print("Thanks for dropping by! Let's build something that scales.")
@@ -92,6 +96,6 @@ class Bhuvanesh:
   <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/BhuvaneshBM/BhuvaneshBM/output/github-contribution-grid-snake.svg" />
 </picture>
 
-<p align="center"><b>Open to Backend, SDE, and AI/ML engineering roles. Let's connect!</b></p>
+<p align="center"><b>Open to full-time Backend, SDE, and AI/ML engineering roles (2027). Let's connect!</b></p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:A78BFA,100:22D3EE&height=110&section=footer" width="100%" alt="footer" />
