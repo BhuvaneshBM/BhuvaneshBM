@@ -18,7 +18,7 @@
 
 I'm a backend and AI/ML engineer studying at **IIT Madras**. I build backend systems that hold up under real load, and I design them properly at both the architecture level (**HLD**) and the code level (**LLD**). On the AI side, I work across machine learning, deep learning, and GenAI, from training models in PyTorch to shipping RAG pipelines and LangGraph agents behind production APIs.
 
-- 💼 Forward Deployed Engineering Intern at **Zetta Tech**, building production FastAPI and PostgreSQL platforms
+- 💼 Previously a Forward Deployed Engineering Intern at **Zetta Tech**, where I built production FastAPI and PostgreSQL platforms deployed on Kubernetes
 - 🏗️ I design scalable backends with caching, queues, rate limiting, circuit breakers, and failover
 - 🤖 Currently building LLM systems: RAG, agents with LangChain and LangGraph, and LLM infrastructure
 - 🧠 ML and deep learning, from classical models to Transformers built from scratch
@@ -36,18 +36,6 @@ I'm a backend and AI/ML engineer studying at **IIT Madras**. I build backend sys
 | **ML & Deep Learning** | PyTorch, TensorFlow, scikit-learn, XGBoost, Transformers, CNNs, NLP |
 | **DevOps & MLOps** | Docker, Kubernetes, GitHub Actions CI/CD, MLflow experiment tracking |
 
-## 💼 Experience
-
-**Forward Deployed Engineering Intern · Zetta Tech Hospitality LLP, Chennai** · `May 2026 – Jul 2026`
-- Delivered REST APIs across FastAPI modules on PostgreSQL, powering live customer, supplier, and admin portals
-- Shipped WhatsApp, SMS OTP, email, and eKYC integrations that automate customer and supplier onboarding end to end
-- Built Celery workers that move 5,000-row, ~90-column Excel jobs out of the 30-second API request timeout
-- Set up a pytest suite and GitHub Actions CI/CD on Kubernetes, with database migrations, for regression-free releases
-- Built a land approval tracking module with a 5-phase workflow, automated alerts, risk scores, and an AI assistant
-
-**Production and Quality Intern · Mahindra Aerospace, Bengaluru** · `Dec 2024`
-- Tracked production lots and quality data for aerospace sheet-metal parts, with full lot traceability and process drift checks
-
 #### A little more about me
 ```python
 class Bhuvanesh:
@@ -64,16 +52,20 @@ class Bhuvanesh:
 
 ## 🛠️ Tech Stack
 
-| | |
-|---|---|
-| **Languages** | <img src="https://skillicons.dev/icons?i=python,cpp,bash&theme=dark" height="40" alt="Python, C++, Bash" /> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" height="40" alt="SQL" /> |
-| **Backend** | <img src="https://skillicons.dev/icons?i=fastapi,flask,redis,postman&theme=dark" height="40" alt="FastAPI, Flask, Redis, Postman" /> <img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white" height="40" alt="Celery" /> <img src="https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white" height="40" alt="REST APIs" /> |
-| **Databases** | <img src="https://skillicons.dev/icons?i=postgres,mongodb,sqlite,supabase&theme=dark" height="40" alt="PostgreSQL, MongoDB, SQLite, Supabase" /> <img src="https://img.shields.io/badge/pgvector-336791?style=for-the-badge&logo=postgresql&logoColor=white" height="40" alt="pgvector" /> <img src="https://img.shields.io/badge/ChromaDB-FF6F00?style=for-the-badge" height="40" alt="ChromaDB" /> |
-| **AI / ML** | <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark" height="40" alt="PyTorch, TensorFlow, scikit-learn" /> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" height="40" alt="NumPy" /> <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="40" alt="pandas" /> <img src="https://img.shields.io/badge/XGBoost-189FDD?style=for-the-badge" height="40" alt="XGBoost" /> |
-| **GenAI** | <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" height="40" alt="LangChain" /> <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" height="40" alt="LangGraph" /> <img src="https://img.shields.io/badge/RAG-8A2BE2?style=for-the-badge" height="40" alt="RAG" /> <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" height="40" alt="Hugging Face" /> |
-| **DevOps & MLOps** | <img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,linux,git&theme=dark" height="40" alt="Docker, Kubernetes, GitHub Actions, Linux, Git" /> <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" height="40" alt="MLflow" /> |
-| **AI Tools** | <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white" height="40" alt="Claude Code" /> <img src="https://img.shields.io/badge/Codex-412991?style=for-the-badge&logo=openai&logoColor=white" height="40" alt="Codex" /> |
+<p align="center"><b>⭐ Core stack</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,kubernetes,docker,redis,pytorch&theme=dark&perline=7" alt="Python, FastAPI, PostgreSQL, Kubernetes, Docker, Redis, PyTorch" />
+</p>
 
+| Category | Tools |
+|---|---|
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white) |
+| **Backend** | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) ![REST APIs](https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white) ![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white) |
+| **Databases** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white) ![pgvector](https://img.shields.io/badge/pgvector-336791?style=for-the-badge&logo=postgresql&logoColor=white) ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F00?style=for-the-badge) |
+| **DevOps & Cloud** | ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
+| **AI / ML** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white) ![XGBoost](https://img.shields.io/badge/XGBoost-189FDD?style=for-the-badge) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) |
+| **GenAI** | ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white) ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white) ![RAG](https://img.shields.io/badge/RAG-8A2BE2?style=for-the-badge) ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black) ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white) |
+| **AI Tools** | ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white) ![Codex](https://img.shields.io/badge/Codex-412991?style=for-the-badge&logo=openai&logoColor=white) |
 ## 📊 GitHub Analytics
 
 <p align="center">
