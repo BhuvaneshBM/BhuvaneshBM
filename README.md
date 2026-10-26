@@ -5,7 +5,6 @@
 </p>
 
 <p align="center">
-  <img src="assets/badges/fde-zetta.svg" alt="Ex Forward Deployed Engineering Intern at Zetta Tech" />
   <a href="https://www.linkedin.com/in/bhuvanesh-b-m-1239bm"><img src="assets/badges/linkedin.svg" alt="LinkedIn" /></a>
   <img src="https://komarev.com/ghpvc/?username=BhuvaneshBM&label=Profile%20Views&color=22D3EE&style=for-the-badge" alt="Profile views" />
 </p>
